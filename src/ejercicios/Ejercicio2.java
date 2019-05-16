@@ -6,6 +6,8 @@ public class Ejercicio2 {
 
 	public static void main(String[] args) {
 
+		//Modificacion2 de clase
+		
 		ArrayList<Integer> aleatorio = new ArrayList<>();
 
 		int numeroList = (int) (Math.random() * (20 - 10 + 1) + 10);
