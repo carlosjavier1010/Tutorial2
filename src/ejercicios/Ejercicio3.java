@@ -6,7 +6,7 @@ public class Ejercicio3 {
 
 	public static void main(String[] args) {
 		
-		//Modificacion en la rama pruebassas
+		//Modificacion en la rama pruebasa
 		
 		ArrayList <Integer> numeros = new ArrayList<>();
 		int n = 0;
